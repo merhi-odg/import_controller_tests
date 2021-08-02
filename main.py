@@ -1,3 +1,3 @@
-# modelop.metrics
-def metrics(data):
+# modelop.train
+def train(data):
     yield {"foo": "bar"}
